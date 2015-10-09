@@ -1,0 +1,2 @@
+def ver():
+    return dict()
